@@ -1,0 +1,23 @@
+body{
+  
+    
+}
+.width{
+   
+    background-image: url("./img/hero1.jpg");
+    background-size: cover;
+  
+    background-repeat: no-repeat;
+
+
+}
+
+.icon{
+
+    font-size:60px;
+   
+}
+.gambar{
+    height:50vh;
+    background-image: url("");
+}
